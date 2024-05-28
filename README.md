@@ -12,4 +12,17 @@ Esta aplicación nos ayuda a buscar libros en la api llamada **Gutendex** que cu
 ## PRUEBAS
 A continuación se muestran imágenes de cada uno de las 5 opciones detalladas anteriormente, cada imagen enumerada del 1 al 5, corresponde a cada uno de los modulos con el mismo número.
 
-* 1. 
+* 1. ![literalura1](https://github.com/Dhalex85/challengeLiteralura/assets/25412172/e70cb77e-96ff-4552-9388-1b2004b9a902)
+  2. ![literalura2](https://github.com/Dhalex85/challengeLiteralura/assets/25412172/109d2e12-8e8b-42ab-9428-6195b2228081)
+  3. ![literalura3](https://github.com/Dhalex85/challengeLiteralura/assets/25412172/fea478a4-d9cf-42da-b733-b7cca916cab8)
+  4. ![literalura4](https://github.com/Dhalex85/challengeLiteralura/assets/25412172/e7ca78fb-78d4-45c3-b4d9-1f28ccd47990)
+  5. ![literalura5](https://github.com/Dhalex85/challengeLiteralura/assets/25412172/c072ffe7-7ad3-4bfa-8fdc-23ec0a7c8d7d)
+
+  ## CONSTRUCCIÓN
+  Herramientas utilizadas en este proyecto:
+  
+
+
+
+
+
