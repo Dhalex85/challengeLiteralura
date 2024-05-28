@@ -20,6 +20,17 @@ A continuación se muestran imágenes de cada uno de las 5 opciones detalladas a
 
   ## CONSTRUCCIÓN
   Herramientas utilizadas en este proyecto:
+  ![javalura](https://github.com/Dhalex85/challengeLiteralura/assets/25412172/509fc501-3ce0-4363-a4e3-3d236bb279b8)
+  * Lenguaje: Java
+  * Frameworks: Spring e Hibernate
+  * BD: Postgres
+  * Gestor: Maven
+  
+
+
+  ## AUTOR
+  Aplicación realizada por **Daniel Espinoza** *@Dhalex85* estudiante del grupo 6.
+  
   
 
 
