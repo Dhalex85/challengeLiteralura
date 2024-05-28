@@ -29,7 +29,7 @@ A continuación se muestran imágenes de cada uno de las 5 opciones detalladas a
 
 
   ## AUTOR
-  Aplicación realizada por **Daniel Espinoza** *@Dhalex85* estudiante del grupo 6.
+  Aplicación realizada por **Daniel Espinoza** [*@Dhalex85*](https://github.com/Dhalex85) estudiante del grupo 6.
   
   
 
